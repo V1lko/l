@@ -29,6 +29,7 @@ public class CharacterController2D : MonoBehaviour
 
     private void Update()
     {
+        //Jump Input
         if (Input.GetButtonDown("Jump"))
         {
             hasPressedJump = true;
@@ -48,7 +49,6 @@ public class CharacterController2D : MonoBehaviour
         {
             Jump();
         }
-
     }
 
     private void Checking()
