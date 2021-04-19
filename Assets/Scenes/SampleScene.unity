@@ -817,7 +817,7 @@ MonoBehaviour:
   firePoint: {fileID: 1417241270}
   bulletPrefab: {fileID: 1414633875123694432, guid: 22e0319df6e83654b96ea632073d7cfb,
     type: 3}
-  cursorTexture: {fileID: 0}
+  cursorTexture: {fileID: 2800000, guid: c2d7aae641629094787d0b9fdc0f7e74, type: 3}
   cursorMode: 0
 --- !u!1 &2053158975
 GameObject:

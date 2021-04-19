@@ -40,9 +40,4 @@ public class Shooting : MonoBehaviour
     {
         Cursor.SetCursor(cursorTexture, hotSpot, cursorMode);
     }
-
-    private void OnMouseExit()
-    {
-        Cursor.SetCursor(null, hotSpot, cursorMode);
-    }
 }
